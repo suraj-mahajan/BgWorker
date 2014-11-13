@@ -1,0 +1,7 @@
+D:\Project Files\temp\BGWorker\BGWorker\bin\Debug\BGWorker.exe
+D:\Project Files\temp\BGWorker\BGWorker\bin\Debug\BGWorker.pdb
+D:\Project Files\temp\BGWorker\BGWorker\obj\x86\Debug\BGWorker.Form1.resources
+D:\Project Files\temp\BGWorker\BGWorker\obj\x86\Debug\BGWorker.Properties.Resources.resources
+D:\Project Files\temp\BGWorker\BGWorker\obj\x86\Debug\BGWorker.csproj.GenerateResource.Cache
+D:\Project Files\temp\BGWorker\BGWorker\obj\x86\Debug\BGWorker.exe
+D:\Project Files\temp\BGWorker\BGWorker\obj\x86\Debug\BGWorker.pdb
